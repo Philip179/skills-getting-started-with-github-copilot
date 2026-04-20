@@ -44,7 +44,37 @@ activities = {
         "schedule": "Thursdays, 3:30 PM - 4:30 PM",
         "max_participants": 15,
         "participants": []
-    }
+    },
+        "Model United Nations": {
+        "description": "Engage in diplomatic simulations and international relations",
+        "schedule": "Wednesdays, 4:00 PM - 5:30 PM",
+        "max_participants": 25,
+        "participants": []
+    },
+    "Basketball Club": {
+        "description": "Play basketball and develop team skills",
+        "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
+        "max_participants": 10,
+        "participants": []
+    },
+    "Tennis Club": {
+        "description": "Learn tennis techniques and compete in matches",
+        "schedule": "Mondays and Wednesdays, 4:00 PM - 5:00 PM",
+        "max_participants": 8,
+        "participants": []
+    },
+    "Art Studio": {
+        "description": "Explore painting, drawing, and visual arts",
+        "schedule": "Mondays and Wednesdays, 3:30 PM - 5:00 PM",
+        "max_participants": 15,
+        "participants": []
+    },
+    "Music Ensemble": {
+        "description": "Learn music theory and perform in group ensembles",
+        "schedule": "Tuesdays and Fridays, 4:00 PM - 5:30 PM",
+        "max_participants": 20,
+        "participants": []
+    },
 }
 
 
